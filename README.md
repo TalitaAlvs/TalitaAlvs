@@ -1,7 +1,7 @@
 ### Kon'nichiwa! Eu sou a Talita 👋
 
 - 😎 Ela/Dela
-- 🤓 Atualmente estou estudando HTML e CSS
+- 🤓 Atualmente estou estudando C e Python
 - 🥰 Gosto de ler, escrever e desenhar
 
 <div align="center">
