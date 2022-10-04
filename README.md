@@ -1,7 +1,7 @@
 ### Kon'nichiwa! Eu sou a Talita 👋
 
 - 😎 Ela/Dela
-- 🤓 Atualmente estou estudando Dart e JavaScript
+- 🤓 Atualmente estou estudando Dart, JavaScript e um pouquinho de Figma
 - 🥰 Gosto de ler, escrever e desenhar
 
 <div align="center">
